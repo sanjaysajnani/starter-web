@@ -8,7 +8,11 @@ Now a another example
 
 ## Purpose
 
+for comparison purposes
+
 ## Deployment
+
+for comparison yet again
 
 ## Sample website with plenty of files for demos
 
