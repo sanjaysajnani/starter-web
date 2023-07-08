@@ -16,6 +16,8 @@ for comparison yet again
 
 ## Sample website with plenty of files for demos
 
+please fork repository
+
 once more another example
 
 ### Copyright
