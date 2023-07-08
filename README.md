@@ -24,4 +24,4 @@ here add
 
 ### Copyright
 
-Student training copyright 2023
+Student training copyright 2023. all rights reserved
