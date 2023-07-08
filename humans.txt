@@ -8,6 +8,7 @@
 # THANKS
 
     Students names
+	Please give a rating
 
 # TECHNOLOGY COLOPHON
 
